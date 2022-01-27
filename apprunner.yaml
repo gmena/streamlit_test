@@ -6,7 +6,7 @@ build:
       - pip install pipenv
       - pipenv install
 run:
-  runtime-version: 3.9
+  runtime-version: 3.7
   command: pipenv run streamlit hello
   network:
     port: 8501
