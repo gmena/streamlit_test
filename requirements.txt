@@ -1,1 +1,3 @@
+gradio
+jinja2
 streamlit
